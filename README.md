@@ -1,3 +1,3 @@
 # IBM Data Science Capstone
 ### An analysis of SpaceX launch data and predictive variables.
-Not advised as a code reference. Good luck!
+Includes extra charts and trial and error. Good luck!
